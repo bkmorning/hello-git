@@ -1,8 +1,6 @@
 hello world ! 
 githup learing
 
-<<<<<<< HEAD
 master commit
-=======
 branch   edit
->>>>>>> dev
+
